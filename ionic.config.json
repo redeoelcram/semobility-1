@@ -1,0 +1,7 @@
+{
+  "name": "semobility",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
